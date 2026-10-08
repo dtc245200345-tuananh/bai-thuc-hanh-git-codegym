@@ -1,0 +1,2 @@
+This is a practice file for Git.
+Git practice - commit multiple times.
